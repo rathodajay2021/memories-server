@@ -1,0 +1,12 @@
+{
+  "STATUS": {
+    "SERVER_ERROR": "Internal Server Error",
+    "SUCCESS": "Success",
+    "BAD_REQUEST": "Bad Request-Error in query syntax"
+  },
+  "VALIDATION": {
+    "NOT_FOUND": {
+      "DATA": "No data in database"
+    }
+  }
+}
